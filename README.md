@@ -1,14 +1,4 @@
-# OpenDAX
-
-OpenDAX is a multi-service container system for building your crypto-currency exchange
-You can access get a free access to frontend UI by signin up on [openware.com](https://www.openware.com/)
-
 ## Getting started
-
-### Get your License key
-
-Register on [openware.com](https://www.openware.com/) to get your license key for a domain name you control.
-Save the domain and license key string.
 
 ### VM requirements
 
